@@ -1,4 +1,4 @@
- echo "Please enter your name"
+ echo "Please enter your names"
        read name
        echo "Please enter your password"
        read -s password  
